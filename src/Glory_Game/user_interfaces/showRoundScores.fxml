@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="600.0" prefWidth="1100.0" styleClass="roundScoreboard" stylesheets="@signUp.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Glory_Game.Glory_GUI_Controller.showRoundScoresController">
+   <children>
+      <TableView layoutX="134.0" layoutY="76.0" opacity="0.91" prefHeight="200.0" prefWidth="487.0" style="-fx-background-radius: 20px;" AnchorPane.bottomAnchor="100.0" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0" AnchorPane.topAnchor="100.0">
+        <columns>
+          <TableColumn prefWidth="225.0" text="player 1" />
+          <TableColumn prefWidth="225.0" text="Player 2" />
+            <TableColumn prefWidth="225.0" text="Player 3" />
+            <TableColumn prefWidth="225.0" text="Player 4" />
+        </columns>
+      </TableView>
+      <Button layoutX="450.0" layoutY="507.0" mnemonicParsing="false" prefHeight="76.0" prefWidth="194.0" styleClass="continueButton" />
+      <Button layoutX="1026.0" layoutY="14.0" mnemonicParsing="false" prefHeight="60.0" prefWidth="60.0" styleClass="quitButton" />
+   </children>
+</AnchorPane>

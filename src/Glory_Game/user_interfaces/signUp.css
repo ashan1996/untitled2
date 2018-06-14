@@ -1,0 +1,145 @@
+.root {
+    -fx-background-image: url('../images/prepeared.jpg');
+    -fx-background-size: 100% 100%;
+}
+
+.backGrounRadius {
+    -fx-background-radius : 20px;
+}
+
+.quitButton {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/exit.png') ;
+    -fx-background-size: 100% 100%;
+    -fx-background-radius : 12px;
+}
+
+.BackButton {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/back.png') ;
+    -fx-background-size: 100% 100%;
+}
+
+.infoButton {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/info-1459077_960_720.png') ;
+    -fx-background-size: 100% 100%;
+}
+
+.mainGame {
+    -fx-background-image: url('../images/boards_wall_wooden_120702_1920x1080.jpg');
+    -fx-background-size: 100% 100%;
+}
+
+.lettersButton {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/woodLetter.png');
+    -fx-background-size: 100% 100%;
+}
+
+.submitButton {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/woodButton.png');
+    -fx-background-size: 100% 100%;
+}
+
+.scoreBoard {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/points.png');
+    -fx-background-size: 100% 100%;
+}
+
+.countDown {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/countDown.png');
+    -fx-background-size: 100% 100%;
+}
+
+.settingButton {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/settings.jpg');
+    -fx-background-size: 100% 100%;
+}
+
+.letterBag {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/Bag.png');
+    -fx-background-size: 100% 100%;
+}
+
+.roundScores {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/roundScores.png');
+    -fx-background-size: 100% 100%;
+}
+
+.roundButton1 {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/1.png');
+    -fx-background-size: 100% 100%;
+}
+
+.roundButton2 {
+     -fx-background-color: transparent;
+     -fx-background-image: url('../images/2.png');
+     -fx-background-size: 100% 100%;
+ }
+
+.roundButton3 {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/3.png');
+    -fx-background-size: 100% 100%;
+}
+
+.roundButton4 {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/4.png');
+    -fx-background-size: 100% 100%;
+}
+
+.roundButton5 {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/5.png');
+    -fx-background-size: 100% 100%;
+}
+
+.backMainGame {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/bacMain.png');
+    -fx-background-size: 100% 100%;
+}
+
+.myTotalScore {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/myscore.png');
+    -fx-background-size: 100% 100%;
+}
+
+.highScoreButton {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/highscores.png');
+    -fx-background-size: 100% 100%;
+}
+
+.onlinePlayers {
+    -fx-background-image: url('../images/prepeared.jpg');
+    -fx-background-size: 100% 100%;
+}
+
+.playAgainButton {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/play-now.png');
+    -fx-background-size: 100% 100%;
+}
+
+.roundScoreboard {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/boards_wall_wooden_120702_1920x1080.jpg');
+    -fx-background-size: 100% 100%;
+}
+
+.continueButton {
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/continue.png');
+    -fx-background-size: 100% 100%;
+}
