@@ -20,14 +20,14 @@ public class Main extends Application {
 //        //primaryStage.setScene(new Scene(root1, screenSize.getWidth(), screenSize.getHeight()));
 //        primaryStage.setScene(new Scene(root1, 1100, 600));
 //        primaryStage.show();
-//        Parent root2 = FXMLLoader.load(getClass().getResource("user_interfaces/MainGame.fxml"));
-//        primaryStage.setTitle("Hello World");
-//        primaryStage.setScene(new Scene(root2, 1100, 600));
-//        primaryStage.show();
-        Parent root3 = FXMLLoader.load(getClass().getResource("user_interfaces/showRoundScores.fxml"));
-        primaryStage.setTitle("Hello World");
-        primaryStage.setScene(new Scene(root3, 1100, 600));
-        primaryStage.show();
+       Parent root2 = FXMLLoader.load(getClass().getResource("user_interfaces/MainGame.fxml"));
+       primaryStage.setTitle("Hello World");
+       primaryStage.setScene(new Scene(root2, 1100, 600));
+       primaryStage.show();
+//         Parent root3 = FXMLLoader.load(getClass().getResource("user_interfaces/showRoundScores.fxml"));
+//         primaryStage.setTitle("Hello World");
+//         primaryStage.setScene(new Scene(root3, 1100, 600));
+//         primaryStage.show();
 //        SignupController sg = new SignupController();
 //        sg.start(primaryStage);
     }
